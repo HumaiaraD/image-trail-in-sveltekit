@@ -1,38 +1,11 @@
-# sv
+###Svelte
+Practiced building a smooth, animated image trail using SvelteKit, GSAP, and Tailwind CSS. Absolutely loved how it turned out—this kind of satisfying, interactive UI work is exactly the type of creative front-end development I enjoy most.
 
-Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
+From mouse-tracking to staggered animations and image cycling, it was a fun challenge and a rewarding result.
 
-## Creating a project
+🛠️ Built with: SvelteKit, GSAP, Tailwind CSS
+🔗 Live Demo · 
+Here's a glipmse of it. 
 
-If you're seeing this, you've probably already done this step. Congrats!
+https://github.com/user-attachments/assets/4fa9fd9d-072c-4601-ac32-d10d48d3a770
 
-```sh
-# create a new project in the current directory
-npx sv create
-
-# create a new project in my-app
-npx sv create my-app
-```
-
-## Developing
-
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
-```sh
-npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
-
-## Building
-
-To create a production version of your app:
-
-```sh
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
