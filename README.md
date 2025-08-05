@@ -5,7 +5,7 @@ From mouse-tracking to staggered animations and image cycling, it was a fun chal
 
 🛠️ Built with: SvelteKit, GSAP, Tailwind CSS
 🔗 Live Demo · 
-Here's a glipmse of it. 
+Here's a glipmse of it. (PS. sorry for a fast vid, github only allows 10mb)
 
 https://github.com/user-attachments/assets/4fa9fd9d-072c-4601-ac32-d10d48d3a770
 
